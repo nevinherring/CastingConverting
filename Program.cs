@@ -63,6 +63,18 @@ namespace CastingConverting
                 WriteLine($"I was born {age} years ago");
                 WriteLine($"My birthday is {birthday}");
                 WriteLine($"My birthday is {birthday:D}");
+                //int count = int.Parse("abc");
+                Write("How many eggs are there?");
+                int count;
+                string input = ReadLine();
+                if (int.TryParse(input, out count))
+                {
+                    WriteLine($"There are {count} eggs.");
+                }
+                else
+                {
+                    WriteLine("I could not parse the input.");
+                }
 
             }
         }

@@ -58,6 +58,11 @@ namespace CastingConverting
                 // convert to Base64 string and output as text
                 string encoded = Convert.ToBase64String(binaryObject);
                 WriteLine($"Binary Object as Base64: {encoded}");
+                int age = int.Parse("27");
+                DateTime birthday = DateTime.Parse("4 July 1980");
+                WriteLine($"I was born {age} years ago");
+                WriteLine($"My birthday is {birthday}");
+                WriteLine($"My birthday is {birthday:D}");
 
             }
         }

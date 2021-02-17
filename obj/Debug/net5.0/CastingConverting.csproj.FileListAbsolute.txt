@@ -1,0 +1,15 @@
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/CastingConverting/bin/Debug/net5.0/CastingConverting.deps.json
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/CastingConverting/bin/Debug/net5.0/CastingConverting.runtimeconfig.json
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/CastingConverting/bin/Debug/net5.0/CastingConverting.runtimeconfig.dev.json
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/CastingConverting/bin/Debug/net5.0/CastingConverting.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/CastingConverting/bin/Debug/net5.0/ref/CastingConverting.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/CastingConverting/bin/Debug/net5.0/CastingConverting.pdb
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/CastingConverting/obj/Debug/net5.0/CastingConverting.csprojAssemblyReference.cache
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/CastingConverting/obj/Debug/net5.0/CastingConverting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/CastingConverting/obj/Debug/net5.0/CastingConverting.AssemblyInfoInputs.cache
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/CastingConverting/obj/Debug/net5.0/CastingConverting.AssemblyInfo.cs
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/CastingConverting/obj/Debug/net5.0/CastingConverting.csproj.CoreCompileInputs.cache
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/CastingConverting/obj/Debug/net5.0/CastingConverting.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/CastingConverting/obj/Debug/net5.0/ref/CastingConverting.dll
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/CastingConverting/obj/Debug/net5.0/CastingConverting.pdb
+/Users/herringfamily/Desktop/LearningCSharp/PacktPub/CSharpNineDotNetFive/Code/Chapter03.code-workspace/CastingConverting/obj/Debug/net5.0/CastingConverting.genruntimeconfig.cache
